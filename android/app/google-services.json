@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238536635269",
+    "project_id": "applist-b2fe7",
+    "storage_bucket": "applist-b2fe7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238536635269:android:35663551a7748c2a9c8aec",
+        "android_client_info": {
+          "package_name": "com.sms_listen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCSEfX4Z3E1llvAReZigrjhpNzmzxljjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
