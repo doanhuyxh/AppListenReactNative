@@ -2,7 +2,7 @@ const ImageAsset = {
 
 };
 const VideoAsset = {
-  loading: require("../Asset/Video/LoadAppVideo.mp4"),
+  loading: require("../../Asset/Video/LoadAppVideo.mp4"),
   loading2:"../Asset/Video/LoadAppVideo.mp4"
 };
 

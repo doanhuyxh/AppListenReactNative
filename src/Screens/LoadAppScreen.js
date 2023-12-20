@@ -1,6 +1,6 @@
 import { Image, StatusBar, View, StyleSheet, Dimensions } from "react-native";
 import Video from "react-native-video";
-import video from "../Asset/Video/LoadAppVideo.mp4";
+import video from "../../Asset/Video/LoadAppVideo.mp4";
 import { useEffect } from "react";
 
 function LoadAppScreen({navigation}) {

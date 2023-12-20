@@ -3,9 +3,9 @@ import {useEffect} from 'react';
 import {StatusBar} from 'react-native';
 import {Provider} from 'react-redux';
 import {SafeAreaProvider} from 'react-native-safe-area-context';
-import {NavigationStack, store} from './ConfigApp';
-import {requestUserPermissionNotify} from './PermissionAndroid';
-import {Color} from './Constances';
+import {NavigationStack, store} from './src/ConfigApp';
+import {requestUserPermissionNotify} from './src/PermissionAndroid';
+import {Color} from './src/Constances';
 
 export default function App() {
   useEffect(() => {

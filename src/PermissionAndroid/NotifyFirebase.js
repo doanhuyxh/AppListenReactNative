@@ -1,5 +1,6 @@
 import {PermissionsAndroid} from 'react-native'
 import messaging from "@react-native-firebase/messaging";
+
 const requestUserPermissionNotify = async () => {
     try {
         await PermissionsAndroid.request(PermissionsAndroid.PERMISSIONS.POST_NOTIFICATIONS)
